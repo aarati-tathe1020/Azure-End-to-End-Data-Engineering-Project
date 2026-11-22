@@ -1,4 +1,4 @@
-###🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
+#🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
 
 ## 📌 Project Overview
 
@@ -137,6 +137,7 @@ Gold Layer – Analytics Data Storage
 ✅Prepared analytics-ready data using Medallion Architecture.
 
 
+
 ## 🎓 Learning Outcomes
 
 - Hands-on experience with Azure Data Engineering services.
@@ -151,9 +152,7 @@ Gold Layer – Analytics Data Storage
 
 Aarati Tathe
 
-"LinkedIn Profile" =( linkedin.com/in/aarati-tathe-7549b7263 )
-
-
+[LinkedIn](https://www.linkedin.com/in/aarati-tathe-7549b7263/)
 
 
 
