@@ -31,6 +31,28 @@ screenshot
 - Power BI
 - GitHub
 
+Project Screenshots
+### 1. Azure Resources
+![Azure Resource Group](Screenshots/01_Azure_Resources/01_azure_resource_group.png)
+
+![ADLS Storage Account](Screenshots/01_Azure_Resources/02_adls_storage_account.png)
+
+### 2. Azure Data Factory
+![ADF Pipeline Success](Screenshots/02_Azure_Data_Factory/03_adf_pipeline_success.png)
+
+### 3. Bronze Layer
+![Bronze Layer](Screenshots/03_Bronze_Layer/06_bronze_layer.png)
+
+### 4. Databricks Transformation
+![Databricks Transformation](Screenshots/04_Databricks/07_databricks_transformation.png)
+
+### 5. Silver Layer
+![Silver Layer](Screenshots/05_Silver_Layer/09_silver_layer.png)
+
+### 6. Synapse Gold Layer
+![Gold Views](Screenshots/06_Synapse_Gold_Layer/11_synapse_gold_views.png)
+
+![External Table](Screenshots/06_Synapse_Gold_Layer/12_synapse_external_table.png)
 🔨 Project Implementation
 🔄 Implementation Workflow
 1. 🌐 Data Extraction: Retrieve AdventureWorks data from GitHub API.
