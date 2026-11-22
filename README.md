@@ -57,7 +57,7 @@ ADF Pipeline Success
 
 ### Azure Data Factory – Successful Pipeline Execution
 
-![ADF Pipeline Success](Screenshots/ADF_dynamic_pipeline_success.png)
+![ADF Pipeline Success](Screenshots/ADF_dynamc_pipeline_success.png)
 
 ### 3. Bronze Layer
 
