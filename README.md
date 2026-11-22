@@ -1,6 +1,6 @@
-🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
+# 🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project demonstrates an end-to-end cloud-based data engineering solution using Microsoft Azure services and the Medallion Architecture (Bronze, Silver, and Gold).
 
@@ -8,16 +8,16 @@ The API-Driven End-to-End Data Engineering Pipeline uses GitHub as the data sour
 
 The transformed data is made available through Azure Synapse Analytics for querying and Power BI for reporting and visualization.
 
-🎯 Business Objective
+## 🎯 Business Objective
 
 To develop a scalable cloud-based data engineering pipeline that retrieves data from GitHub, ingests and stores raw data, processes it using Azure Databricks, and prepares structured, analytics-ready datasets for business reporting.
 
-🏗️ Project Architecture
-screenshot
+## 🏗️ Project Architecture
 
-.
+![End-to-End Azure Data Engineering Project Architecture](Architecture/Project%20Architecture.jpeg)
 
-🛠️ Technology Stack
+
+## 🛠️ Technology Stack
 
 - GitHub API – Data Source
 - Microsoft Azure
@@ -31,7 +31,6 @@ screenshot
 - Power BI
 - GitHub
 
-Project Screenshots
 
 ## 📸 Project Screenshots
 
@@ -53,9 +52,9 @@ ADF – Sink Dataset Configuration
 
 ![ADF Copy Sink](Screenshots/adf-dynamic-copy-sink.png)
 
-ADF Pipeline Success
+### ADF Pipeline Success
 
-### Azure Data Factory – Successful Pipeline Execution
+Azure Data Factory – Successful Pipeline Execution
 
 ![ADF Pipeline Success](Screenshots/ADF_dynamc_pipeline_success.png)
 
@@ -94,7 +93,6 @@ Synapse Analytics – External Table Creation
 Gold Layer – Analytics Data Storage
 
 ![Gold Container](Screenshots/Gold%20Container.png)
-
 
 
 🔨 Project Implementation
