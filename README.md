@@ -32,27 +32,45 @@ screenshot
 - GitHub
 
 Project Screenshots
-### 1. Azure Resources
-![Azure Resource Group](Screenshots/azure_resource_group.png)
 
-![ADLS Storage Account](Screenshots/01_Azure_Resources/02_adls_storage_account.png)
+## 📸 Project Screenshots
+
+### 1. Azure Resources
+
+![Azure Resource Group](Screenshots/Resource_group.png)
+
+![ADLS Storage Account](Screenshots/Storage_account.png)
 
 ### 2. Azure Data Factory
-![ADF Pipeline Success](Screenshots/02_Azure_Data_Factory/03_adf_pipeline_success.png)
+
+![ADF Pipeline Success](Screenshots/ADF_dynamic_pipeline_success.png)
+
+![ADF Copy Source](Screenshots/adf-dynamic-copy-source.png)
+
+![ADF Copy Sink](Screenshots/adf-dynamic-copy-sink.png)
 
 ### 3. Bronze Layer
-![Bronze Layer](Screenshots/03_Bronze_Layer/06_bronze_layer.png)
+
+![Bronze Layer](Screenshots/Bronze%20Container.png)
 
 ### 4. Databricks Transformation
-![Databricks Transformation](Screenshots/04_Databricks/07_databricks_transformation.png)
+
+![Databricks Transformation](Screenshots/ADB_data_dimension_transformation.png)
 
 ### 5. Silver Layer
-![Silver Layer](Screenshots/05_Silver_Layer/09_silver_layer.png)
+
+![Silver Layer Loading](Screenshots/ADB_silver_layer_data_loading.png)
+
+![Silver Container](Screenshots/Silver%20Container.png)
 
 ### 6. Synapse Gold Layer
-![Gold Views](Screenshots/06_Synapse_Gold_Layer/11_synapse_gold_views.png)
 
-![External Table](Screenshots/06_Synapse_Gold_Layer/12_synapse_external_table.png)
+![Gold Container](Screenshots/Gold%20Container.png)
+
+![Gold Views](Screenshots/create-gold-views.png)
+
+![External Table](Screenshots/create-external-table-sql.png)
+
 🔨 Project Implementation
 🔄 Implementation Workflow
 1. 🌐 Data Extraction: Retrieve AdventureWorks data from GitHub API.
