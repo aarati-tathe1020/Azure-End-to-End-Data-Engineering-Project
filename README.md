@@ -57,7 +57,7 @@ ADF Pipeline Success
 
 ### Azure Data Factory – Successful Pipeline Execution
 
-![ADF Pipeline Success](./Screenshots/ADF_dynamic_pipeline_success.png)
+![ADF Pipeline Success](Screenshots/ADF_dynamic_pipeline_success.png)
 
 ### 3. Bronze Layer
 
@@ -83,10 +83,6 @@ Silver Layer – Transformed Data Storage
 
 ### 6. Synapse Gold Layer
 
-Gold Layer – Analytics Data Storage
-
-![Gold Container](Screenshots/Gold%20Container.png)
-
 Synapse Analytics – Gold SQL Views
 
 ![Gold Views](Screenshots/create-gold-views.png)
@@ -94,6 +90,11 @@ Synapse Analytics – Gold SQL Views
 Synapse Analytics – External Table Creation
 
 ![External Table](Screenshots/create-external-table-sql.png)
+
+Gold Layer – Analytics Data Storage
+
+![Gold Container](Screenshots/Gold%20Container.png)
+
 
 
 🔨 Project Implementation
