@@ -1,4 +1,4 @@
-##### 🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
+## 🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
 
 ## 📌 Project Overview
 
