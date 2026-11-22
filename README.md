@@ -33,7 +33,7 @@ screenshot
 
 Project Screenshots
 ### 1. Azure Resources
-![Azure Resource Group](Screenshots/01_azure_resource_group.png)
+![Azure Resource Group](Screenshots/azure_resource_group.png)
 
 ![ADLS Storage Account](Screenshots/01_Azure_Resources/02_adls_storage_account.png)
 
