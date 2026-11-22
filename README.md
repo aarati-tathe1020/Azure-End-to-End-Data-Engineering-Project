@@ -1,4 +1,4 @@
-##🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
+###🚀 API-Driven End-to-End Data Engineering Pipeline – Microsoft Azure
 
 ## 📌 Project Overview
 
@@ -9,9 +9,11 @@ The API-Driven End-to-End Data Engineering Pipeline uses GitHub as the data sour
 The transformed data is made available through Azure Synapse Analytics for querying and Power BI for reporting and visualization.
 
 
+
 ## 🎯 Business Objective
 
 To develop a scalable cloud-based data engineering pipeline that retrieves data from GitHub, ingests and stores raw data, processes it using Azure Databricks, and prepares structured, analytics-ready datasets for business reporting.
+
 
 ## 🏗️ Project Architecture
 
@@ -123,10 +125,15 @@ Gold Layer – Analytics Data Storage
 ## 📊 Project Output
 
 ✅ Successfully retrieved AdventureWorks data from GitHub API.
+
 ✅ Ingested raw data into ADLS Gen2 using Azure Data Factory.
+
 ✅ Processed and transformed data using Azure Databricks and PySpark.
+
 ✅ Stored transformed datasets in Parquet format in the Silver layer.
+
 ✅ Created SQL views and external tables using Azure Synapse Analytics.
+
 ✅Prepared analytics-ready data using Medallion Architecture.
 
 
