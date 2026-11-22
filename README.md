@@ -40,46 +40,59 @@ Project Screenshots
 ![Azure Resource Group](Screenshots/Resource_group.png)
 
 Storage Account
+
 ![ADLS Storage Account](Screenshots/Storage_account.png)
 
 ### 2. Azure Data Factory
 
 ADF – Source Dataset Configuration
+
 ![ADF Copy Source](Screenshots/adf-dynamic-copy-source.png)
 
 ADF – Sink Dataset Configuration
+
 ![ADF Copy Sink](Screenshots/adf-dynamic-copy-sink.png)
 
 ADF Pipeline Success
-![ADF Pipeline Success](Screenshots/ADF_dynamic_pipeline_success.png)
+
+### Azure Data Factory – Successful Pipeline Execution
+
+![ADF Pipeline Success](./Screenshots/ADF_dynamic_pipeline_success.png)
 
 ### 3. Bronze Layer
 
 Bronze Layer – Raw Data Storage
+
 ![Bronze Layer](Screenshots/Bronze%20Container.png)
 
 ### 4. Databricks Transformation
 
 Databricks – Dimension Data Transformation
+
 ![Databricks Transformation](Screenshots/ADB_data_dimension_transformation.png)
 
 ### 5. Silver Layer
 
 Databricks – Silver Layer Data Loading
+
 ![Silver Layer Loading](Screenshots/ADB_silver_layer_data_loading.png)
 
 Silver Layer – Transformed Data Storage
+
 ![Silver Container](Screenshots/Silver%20Container.png)
 
 ### 6. Synapse Gold Layer
 
 Gold Layer – Analytics Data Storage
+
 ![Gold Container](Screenshots/Gold%20Container.png)
 
 Synapse Analytics – Gold SQL Views
+
 ![Gold Views](Screenshots/create-gold-views.png)
 
 Synapse Analytics – External Table Creation
+
 ![External Table](Screenshots/create-external-table-sql.png)
 
 
