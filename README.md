@@ -155,6 +155,13 @@ Aarati Tathe
 [LinkedIn](https://www.linkedin.com/in/aarati-tathe-7549b7263/)
 
 
+🙏 Credits
+
+This project is based on a YouTube tutorial by "Ansh Lamba" (https://www.youtube.com/@AnshLambaJSR). Completed for learning and educational purposes.
+
+⭐ Thank you for visiting this repository!
+
+
 
 
 
